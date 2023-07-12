@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/annalao/static/css/main.4db8a748.css",
+    "main.js": "/annalao/static/js/main.49492d3a.js",
+    "index.html": "/annalao/index.html",
+    "main.4db8a748.css.map": "/annalao/static/css/main.4db8a748.css.map",
+    "main.49492d3a.js.map": "/annalao/static/js/main.49492d3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4db8a748.css",
+    "static/js/main.49492d3a.js"
+  ]
+}
